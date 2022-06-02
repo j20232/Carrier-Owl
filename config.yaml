@@ -70,7 +70,7 @@ keywords:
         multi-grid: 1
         multiview: 2
         multi-view: 2
-        nerf: 2
+        nerf: 1
         neurosurgery: -1
         object classification: -1
         object detection: -1
